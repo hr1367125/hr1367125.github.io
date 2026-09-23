@@ -1,7 +1,8 @@
 ## Table of Contents 
 
 - [Blocks](#blocks)
--Block	What Your Notes Should Include
+
+Block	What Your Notes Should Include
 Hat Block	What it looks like, what it is used for, and where it belongs
 Stack / Command Block	What it does and how it connects to other commands
 C-Block	What the C-shape means and why blocks can be placed inside
@@ -12,6 +13,7 @@ Wait Until Block	What it does and what kind of condition it needs
 If Then Block	Its shape, how its condition works, and what happens when the condition is TRUE
 Forever Block	Its shape and why programmers use it
 For each block, include:
+
 
 Name:
 Shape/Type:
