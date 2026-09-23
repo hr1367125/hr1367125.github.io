@@ -1,6 +1,12 @@
 ## Table of Contents 
 
 - [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
+
+
+
+
 
 Block	What Your Notes Should Include
 Hat Block	What it looks like, what it is used for, and where it belongs
@@ -51,6 +57,37 @@ Example:
 
 
 - [Vocabulary](#vocabulary)
+
+
+
+
+
+<details>
+<summary><strong>Boolean, Condition, TRUE/FALSE</strong></summary>
+
+**Definition:**  
+A Boolean is a value that can only be TRUE or FALSE. A condition is a question or statement that produces a Boolean result.
+
+**In My Own Words:**  
+The program checks a condition like a yes-or-no question. The answer is either TRUE or FALSE, and the program can use that answer to decide what to do.
+
+**Example:**  
+A Bumper Sensor can be used to check whether the bumper is pressed.
+
+Pressed = TRUE  
+Not Pressed = FALSE
+
+</details>
+
+
+
+
+
+
+
+
+
+
 - IMPORTANT: One Row = One Notebook Entry
 Some related terms have been grouped together.
 
